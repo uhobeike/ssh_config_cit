@@ -1,0 +1,2 @@
+# ssh_config_cit
+学校でsshを使用してcloneできるようにするためのファイル
